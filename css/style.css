@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Lexend Deca;
+    font-style: normal;
+    line-height: normal;
+}
+
+
+.bg-navyblue{
+   background-color:#020617;
+}
+.bg-navyblue1{
+    background-color: #111827;
+}
+.herosection{
+    width: 100%;
+    height: auto;
+    background-color: #111827;
+}
+.aboutme{
+    width: 100%;
+    height: auto;
+    background-color: #020617;
+}
+
+.about-img{
+    width: 30rem;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 25px;
+}
+
+.myservice{
+    width: 100%;
+    height: auto;
+    background: #111827;
+}
+.service-card{
+    background-color: #020617;
+}
+
+.myportfolio{
+    background-color: #020617;
+}
+.experience{
+    background: #111827;
+    
+}
+.contact{
+    background-color: #020617;
+}
+
+footer{
+    background-color: #020617;
+}
